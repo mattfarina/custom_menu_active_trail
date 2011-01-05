@@ -1,0 +1,4 @@
+name = Custom Menu Active Trail
+description = Adds custom menus to the active trail.
+core = 7.x
+files[] = custom_menu_active_trail.module
